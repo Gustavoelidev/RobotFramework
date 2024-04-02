@@ -1,0 +1,17 @@
+1712101202234	geckodriver	INFO	Listening on 127.0.0.1:52451
+1712101205330	mozrunner::runner	INFO	Running command: "C:\\Users\\gheli\\.cache\\selenium\\firefox\\win64\\124.0.2\\firefox.exe" "--marionette" "--remote-debuggin ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gheli\\AppData\\Local\\Temp\\rust_mozprofilePb2XZu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712101205603	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712101205711	Marionette	INFO	Listening on port 52459
+WebDriver BiDi listening on ws://127.0.0.1:52452
+Read port: 52459
+1712101205861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52452/devtools/browser/869b5421-c6b0-4349-9908-0f0d6fbb4164
+JavaScript warning: https://static.licdn.com/sc/h/46f9yq0xpy8dzff7r440aornx, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/46f9yq0xpy8dzff7r440aornx, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/473v2cdto9klp3y6gfjcs28u2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/473v2cdto9klp3y6gfjcs28u2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712101209088	Marionette	INFO	Stopped listening on port 52459
+Dynamically enable window occlusion 1

@@ -1,0 +1,18 @@
+1712100736347	geckodriver	INFO	Listening on 127.0.0.1:51957
+1712100739526	mozrunner::runner	INFO	Running command: "C:\\Users\\gheli\\.cache\\selenium\\firefox\\win64\\124.0.2\\firefox.exe" "--marionette" "--remote-debuggin ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\gheli\\AppData\\Local\\Temp\\rust_mozprofileeT4lAG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712100740182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712100740295	Marionette	INFO	Listening on port 51965
+WebDriver BiDi listening on ws://127.0.0.1:51958
+Read port: 51965
+1712100740475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51958/devtools/browser/70d0aaeb-a57b-4666-8c27-96f643ca57f4
+1712100770924	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.youtube.com/s/player/bf2df3ec/www-embed-player.vflset/www-embed-player.js, line 1091: Script terminated by timeout at:
+Zn/this.done</<@https://www.youtube.com/s/player/bf2df3ec/www-embed-player.vflset/www-embed-player.js:1091:149
+
+JavaScript warning: https://www.google.com/js/th/VzLVBSZIFM7ohPQJNPx-6-TdKeSwt2EAm0C0E2js8ZA.js line 2 > eval line 5078 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712100821366	Marionette	INFO	Stopped listening on port 51965
+Dynamically enable window occlusion 1

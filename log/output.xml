@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.10.6 on win32)" generated="2024-04-02T20:28:03.740321" rpa="false" schemaversion="5">
+<suite id="s1" name="Estrutura" source="C:\Users\gheli\PycharmProjects\RobotFramework\estrutura.robot">
+<test id="s1-t1" name="Cenario 1: Teste de abrir navegador" line="14">
+<status status="FAIL" start="2024-04-02T20:28:03.775200" elapsed="0.000997">Test cannot be empty.</status>
+</test>
+<test id="s1-t2" name="Cenario 2: Fechar navegador" line="16">
+<status status="FAIL" start="2024-04-02T20:28:03.776197" elapsed="0.000000">Test cannot be empty.</status>
+</test>
+<test id="s1-t3" name="Cenario 3: Visitar site" line="18">
+<status status="FAIL" start="2024-04-02T20:28:03.777195" elapsed="0.000000">Test cannot be empty.</status>
+</test>
+<status status="FAIL" start="2024-04-02T20:28:03.742288" elapsed="0.035903"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="3" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="3" skip="0" id="s1" name="Estrutura">Estrutura</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2024-04-02T20:28:03.773204" level="ERROR">Error in file 'C:\Users\gheli\PycharmProjects\RobotFramework\estrutura.robot' on line 2: Importing library 'SeleniumLibrary' failed: ModuleNotFoundError: No module named 'SeleniumLibrary'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\Users\gheli\AppData\Roaming\JetBrains\PyCharm2023.3\plugins\robotframework-intellij\lib\robotframework_debug_adapter
+  C:\Users\gheli\PycharmProjects\RobotFramework
+  C:\Users\gheli\AppData\Roaming\JetBrains\PyCharm2023.3\plugins\robotframework-intellij\lib
+  C:\Users\gheli\AppData\Roaming\JetBrains\PyCharm2023.3\plugins\robotframework-intellij\lib\robotframework_ls\vendored
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\python310.zip
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\DLLs
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\lib
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\lib\site-packages
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\lib\site-packages\win32
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\lib\site-packages\win32\lib
+  C:\Users\gheli\AppData\Local\Programs\Python\Python310\lib\site-packages\Pythonwin</msg>
+</errors>
+</robot>
