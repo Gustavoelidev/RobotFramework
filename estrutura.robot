@@ -8,13 +8,13 @@ ${variavel13}       155455
 
 *** Keywords ***
 Abrir site
-    Open Browser   https://docs.robotframework.org/docs/getting_started/ide#pycharm chrome
+    Open Browser   https://docs.robotframework.org/docs/getting_started/ide#pycharm edge
 
 Fechar navegador
     Close Browser
 
 Abrir site Linkedin
-    Open Browser   https://www.linkedin.com/analytics/profile-views/ chrome
+    Open Browser   https://www.linkedin.com/analytics/profile-views/  edge
 
 
 
